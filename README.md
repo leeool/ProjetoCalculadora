@@ -4,7 +4,7 @@
 É um programa que calcula e mostra operações matemáticas, tanto operações básicas como a soma, subtração, multiplicação e adição, quanto operações mais complexas como a exponenciação e a radiciação.
 
 ## Download ⬇
-
+[Clique aqui](ProjetoCalculadora-main.zip) para baixar o aplicativo.
 
 ## Agradecimentos ☕
 Agradecimento especial aos professores [Ermogenes Palacio](https://github.com/ermogenes) e [Diego Neri](https://github.com/diegoneri) que foram as principais pessoas que fizeram esse programa funcionar corretamente.
