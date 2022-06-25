@@ -14,7 +14,8 @@ Agradecimento especial aos professores [Ermogenes Palacio](https://github.com/er
 ## Créditos 📎
 Dev: leeool (Leonardo Gonsalez)
 
-[Tamplate](https://github.com/ermogenes/calculadora-2022) do professor [Ermogenes Palacio](https://github.com/ermogenes)
+[Template](https://github.com/ermogenes/calculadora-2022) do professor [Ermogenes Palacio](https://github.com/ermogenes)
 
+---
 ### - "Beba água!"
   - alguém
