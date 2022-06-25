@@ -3,6 +3,8 @@
 ## O que é? 📜
 É um programa que calcula e mostra operações matemáticas, tanto operações básicas como a soma, subtração, multiplicação e adição, quanto operações mais complexas como a exponenciação e a radiciação.
 
+[imagem](Capturar.PNG)
+
 ## Download ⬇
 [Clique aqui](ProjetoCalculadora-main.zip) para baixar o aplicativo.
 
