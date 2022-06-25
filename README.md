@@ -6,7 +6,7 @@
 [imagem](Capturar.PNG)
 
 ## Download ⬇
-[Clique aqui](Release.zip) para baixar o aplicativo.
+[Clique aqui](https://github.com/leeool/ProjetoCalculadora/raw/main/Release.zip) para baixar o aplicativo.
 
 ## Agradecimentos ☕
 Agradecimento especial aos professores [Ermogenes Palacio](https://github.com/ermogenes) e [Diego Neri](https://github.com/diegoneri) que foram as principais pessoas que fizeram esse programa funcionar corretamente.
